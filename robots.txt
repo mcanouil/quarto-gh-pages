@@ -1,1 +1,1 @@
-Sitemap: https://mcanouil.github.io/quarto-gh-pages/sitemap.xml
+Sitemap: https://github.com/mcanouil/quarto-gh-pages/sitemap.xml
